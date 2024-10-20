@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\GeometryGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|solutionrelative:GeometryGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\GeometryGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|solutionrelative:GeometryGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|solutionrelative:Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E02B128-35E7-4CCA-A8CF-3CE5A951FC8E}|Solar_System_CubeMap.vcxproj|solutionrelative:Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mesh.h",
+              "DocumentMoniker": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\Mesh.h",
+              "RelativeDocumentMoniker": "Mesh.h",
+              "ToolTip": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\Mesh.h",
+              "RelativeToolTip": "Mesh.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T18:40:52.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mesh.cpp",
+              "DocumentMoniker": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\Mesh.cpp",
+              "RelativeDocumentMoniker": "Mesh.cpp",
+              "ToolTip": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\Mesh.cpp",
+              "RelativeToolTip": "Mesh.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T18:40:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeometryGenerator.cpp",
+              "DocumentMoniker": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\GeometryGenerator.cpp",
+              "RelativeDocumentMoniker": "GeometryGenerator.cpp",
+              "ToolTip": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\GeometryGenerator.cpp",
+              "RelativeToolTip": "GeometryGenerator.cpp",
+              "ViewState": "AgIAAK4BAAAAAAAAAAAhwNEBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T18:36:28.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeometryGenerator.h",
+              "DocumentMoniker": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\GeometryGenerator.h",
+              "RelativeDocumentMoniker": "GeometryGenerator.h",
+              "ToolTip": "C:\\Users\\LSJ_MAIN\\source\\repos\\LHR-kr\\HongLabGraphicsPart2\\Solar_System_CubeMap\\GeometryGenerator.h",
+              "RelativeToolTip": "GeometryGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T18:36:01.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

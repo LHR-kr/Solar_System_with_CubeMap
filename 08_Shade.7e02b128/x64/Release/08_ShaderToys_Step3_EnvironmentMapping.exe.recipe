@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Release\08_ShaderToys_Step3_EnvironmentMapping.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Release\BasicPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Release\BasicVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Release\CubeMappingPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Release\SunPixelShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

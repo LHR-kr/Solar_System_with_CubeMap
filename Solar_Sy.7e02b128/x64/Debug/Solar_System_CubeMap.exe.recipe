@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\Solar_System_CubeMap.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\BasicPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\BasicVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\BillboardPointsGeometryShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\BillboardPointsVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\CubeMappingPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\SunPixelShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

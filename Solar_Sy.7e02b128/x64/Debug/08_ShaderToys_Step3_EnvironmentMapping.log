@@ -1,0 +1,16 @@
+﻿  compilation object save succeeded; see C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\SunPixelShader.cso
+  CubeMapMesh.cpp
+  ExampleApp.cpp
+C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\ExampleApp.cpp(44,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\ExampleApp.cpp(138,65): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\ExampleApp.cpp(248,56): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\ExampleApp.cpp(249,69): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\ExampleApp.cpp(250,45): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GeometryGenerator.cpp
+  main.cpp
+  AppBase.cpp
+  Mesh.cpp
+  코드를 생성하고 있습니다...
+  08_ShaderToys_Step3_EnvironmentMapping.vcxproj -> C:\Users\LeeHaeRang\Desktop\HongLabGraphicsPart2_5_8v3-230104-233524\Solar_System_CubeMap\x64\Debug\Solar_System_CubeMap.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
